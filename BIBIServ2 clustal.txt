@@ -1,0 +1,90 @@
+CLUSTAL W (1.8) multiple sequence alignment
+
+
+sp|Q99895|CTRC_HUMAN mlgit-------------------------------------------------------
+sp|P00760|TRY1_BOVIN mktf--------------------------------------------------------
+sp|P00766|CTRA_BOVIN ------------------------------------------------------------
+sp|P00775|TRYP_STRGR mkhflralkrcs--------------------------------------------VAVA
+sp|P00776|PRTA_STRGR mtfkr--------------------------------------FSPLSSTSRYARLLAVA
+sp|P00782|SUBT_BACAM mrgkkvwisllfalaliftmafgstssaqaagksngekkyivgFKQTMSTMSAAKKKDVI
+                
+
+sp|Q99895|CTRC_HUMAN ------------------------------------------------------------
+sp|P00760|TRY1_BOVIN ------------------------------------------------------------
+sp|P00766|CTRA_BOVIN ------------------------------------------------------------
+sp|P00775|TRYP_STRGR T-----------------------------------------------------------
+sp|P00776|PRTA_STRGR S-----------------------------------------------------------
+sp|P00782|SUBT_BACAM Sekggkvqkqfkyvdaasatlnekavkelkkdpsvayveedhvahayaqsvpygvsqika
+                
+
+sp|Q99895|CTRC_HUMAN ---------------------------------------------------------VLA
+sp|P00760|TRY1_BOVIN ---------------------------------------------------------IFL
+sp|P00766|CTRA_BOVIN ------------------------------------------------------------
+sp|P00775|TRYP_STRGR ---------------------------------------------------------VAI
+sp|P00776|PRTA_STRGR ---------------------------------------------------------GLV
+sp|P00782|SUBT_BACAM palhsqgytgsnvkvavidsgidsshpdlkvaggasmvpsetnpfqdnnshgthvagTVA
+                
+
+sp|Q99895|CTRC_HUMAN ALLACASSCGVPSFPPNLS--AR-------------------------------------
+sp|P00760|TRY1_BOVIN ALLGAAV-----AFPVDDD--DK-------------------------------------
+sp|P00766|CTRA_BOVIN --------CGVPAIQPVLSglSR-------------------------------------
+sp|P00775|TRYP_STRGR AVVGLQP-----VTASAAP--NP-------------------------------------
+sp|P00776|PRTA_STRGR AAAALAT-----PSAVAAP--Eaeskatvsqladassailaadvagtawyteastgkivl
+sp|P00782|SUBT_BACAM ALNNSIGVLGVAPSASLYA--VK-------------------------------------
+                
+
+sp|Q99895|CTRC_HUMAN -------------------------------------VVGGEDARPHSWPWQISLQylkn
+sp|P00760|TRY1_BOVIN -------------------------------------IVGGYTCGANTVPYQVSLNS--G
+sp|P00766|CTRA_BOVIN -------------------------------------IVNGEEAVPGSWPWQVSLQDktG
+sp|P00775|TRYP_STRGR -------------------------------------VVGGTRAAQGEFPFMVRLSM--G
+sp|P00776|PRTA_STRGR tadstvskaelakvsnalagskakltvkraegkftplIAGGEAITTGGs----RCSL--G
+sp|P00782|SUBT_BACAM -------------------------------------VLGADGSGQYSWi----------
+                
+
+sp|Q99895|CTRC_HUMAN dtwrHTCGGTLIASNFVLTAAHCISntrtyRVAVGKNNLEVEDEEGSLFVGVDTIHV---
+sp|P00760|TRY1_BOVIN Y---HFCGGSLINSQWVVSAAHCYKSGI--QVRLGEDNINVVEGNEQFIsasksi-V---
+sp|P00766|CTRA_BOVIN F---HFCGGSLINENWVVTAAHC----G--VTTSDVVVAGEFD-QGSSSEKIQKLKIakv
+sp|P00775|TRYP_STRGR ------CGGALYAQDIVLTAAHCVSGSG--NNTSITATGGVVDLQSSSAVKVRSTKV---
+sp|P00776|PRTA_STRGR ------FNVSVNGVAHALTAGHCTNISA--SWSIGTRTGTSFPNNDYGIirhsnpaaadg
+sp|P00782|SUBT_BACAM ----------INGIew--------------------------------------------
+                
+
+sp|Q99895|CTRC_HUMAN --HKRWNALLLRNDIALIKLAEHVELSDTIQVACLPekdsllpkdypCYVTGWGRL-WTN
+sp|P00760|TRY1_BOVIN --HPSYNSNTLNNDIMLIKLKSAASLNSRVASISLPTSCA--SAGTQCLISGWGNTKSSG
+sp|P00766|CTRA_BOVIN fkNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASddfAAGTTCVTTGWGLTRYTN
+sp|P00775|TRYP_STRGR --LQAPGYNGTGKDWALIKLAQPINQPTLKIATTTAYNQGTFT------VAGWGAN-REG
+sp|P00776|PRTA_STRGR rvyl---YNGSYQDittagnafv-GQAVQRSGSTTGLRSGSVT------GLNATVN-YGS
+sp|P00782|SUBT_BACAM -------AIANNMDVINMSLGGPSGSAALKAAVDKAVASGVVV------VAAAGNE-GTS
+                
+
+sp|Q99895|CTRC_HUMAN GPIADKLQQGLQPVVDHATCSRidWWGFRVKKTM-VCAGgd--GVISACNGDSGGPLNCQ
+sp|P00760|TRY1_BOVIN TSYPDVLKCLKAPILSDSSCKS--AYPGQITSNM-FCAGYle-GGKDSCQGDSGGPVVCS
+sp|P00766|CTRA_BOVIN ANTPDRLQQASLPLLSNTNCKK--YWGTKIKDAM-ICAGas---GVSSCMGDSGGPLVCK
+sp|P00775|TRYP_STRGR GSQQRYLLKANVPFVSDAACRS--AYGNELVANeeICAGYpdtGGVDTCQGDSGGPMFRK
+sp|P00776|PRTA_STRGR SGIVYGMIQTNVcaep----------------------------------GDSGGSLFAG
+sp|P00782|SUBT_BACAM GSsstv------------------------------------------------------
+                
+
+sp|Q99895|CTRC_HUMAN LENGSWEVFGIVSFGSrrGCNTRKKPVVYTRVSAYIDW----------------------
+sp|P00760|TRY1_BOVIN G-----KLQGIVSWGS--GCAQKNKPGVYTKVCNYVSW----------------------
+sp|P00766|CTRA_BOVIN KN-GAWTLVGIVSWGS--STCSTSTPGVYARVTALVNW----------------------
+sp|P00775|TRYP_STRGR DNADEWIQVGIVSWGY--GCARPGYPGVYTEVSTFASA----------------------
+sp|P00776|PRTA_STRGR S-----TALGLTSGGS--GNCRTGGTTFYQPVTEALSA----------------------
+sp|P00782|SUBT_BACAM -----------------------GYPGKYPSVIAVgavdssnqrasfssvgpeldvmapg
+                
+
+sp|Q99895|CTRC_HUMAN --INEKMql---------------------------------------------------
+sp|P00760|TRY1_BOVIN --IKQTIASN--------------------------------------------------
+sp|P00766|CTRA_BOVIN --VQQTLAAN--------------------------------------------------
+sp|P00775|TRYP_STRGR --IASAArtl--------------------------------------------------
+sp|P00776|PRTA_STRGR --YGATVl----------------------------------------------------
+sp|P00782|SUBT_BACAM vsIQSTLPGNkygayngtsmasphvagaaalilskhpnwtntqvrsslentttklgdsfy
+                
+
+sp|Q99895|CTRC_HUMAN -------------
+sp|P00760|TRY1_BOVIN -------------
+sp|P00766|CTRA_BOVIN -------------
+sp|P00775|TRYP_STRGR -------------
+sp|P00776|PRTA_STRGR -------------
+sp|P00782|SUBT_BACAM ygkglinvqaaaq
+                
